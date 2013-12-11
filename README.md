@@ -14,18 +14,18 @@
 ### メニュー
 
 このページの右側は、下図のようになっているでしょう。
-[menu_bar](image1.png)
+![menu_bar](image1.png)
 
 WikiやIssuesの文字があるので分かりやすいです。
 
 
 WikiやIssuesに進むと、下図のようになります。
-[menu_bar_small](image2.png)
+![menu_bar_small](image2.png)
 
 アイコンだけになってわかりにくいですね。赤で囲ったのがIssuesで、ピンクで囲ったのがWikiになります。
 
 迷ったら、アイコンの上にカーソルを合わせてみましょう。すると下図のようにポップアップしてリンク先を教えてくれます。
-[popup](image3.png)
+![popup](image3.png)
 
 
 ### Wiki
@@ -38,7 +38,7 @@ Markdown記法が利用出来ます。
 
 掲示板のように利用すれば良いでしょう。コメントを書いて情報共有をしたり、コミュニケーションをとったりしましょう。
 
-[issues](image4.png)
+![issues](image4.png)
 
 * Issueには「Open」の状態と「Closed」の状態があります。
 * Openは作業中だったり未解決のもので、現在進行中の事案です。
